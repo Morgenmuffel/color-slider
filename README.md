@@ -2,7 +2,7 @@
 
 To get started:
 
-`git clone https://github.com/spencerudnick/random-color.git`
+`git clone https://github.com/Morgenmuffel/color-slider.git`
 
 `cd random-color`
 
